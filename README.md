@@ -27,7 +27,7 @@ The following code will convert the `example.vtu` to `example.dat` file for Tecp
 
 int main(){
     
-    vtu2Tec::vtu2Tec("example.vtu");
+    vtu2Tec::vtu2Tec convert("example.vtu");
 
     return 0;
 }
