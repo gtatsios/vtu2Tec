@@ -17,6 +17,8 @@ To compile a static library, run `make` in the project root. This will generate 
 
 To run the tests compile with `make tests` and run the `test` executable in the `build/test` folder. 
 
+Tested with g++ 9.4.0.
+
 ### Example usage
 
 The following code will convert the `example.vtu` to `example.dat` file for Tecplot.
